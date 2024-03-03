@@ -1,0 +1,23 @@
+@charset "UTF-8";
+*{
+	margin:0px;
+	padding:0px;
+	box-sizing:border-box;
+}
+table{
+	border-collapse:collapse;
+}
+body{
+	background-color:green;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+
+}
+#first{background-color:white;
+margin-top:100px;
+}
+h1{
+	color:red;
+	margin-left:20px;
+}

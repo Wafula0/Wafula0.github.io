@@ -1,0 +1,30 @@
+@charset "UTF-8";
+*{
+	margin:0px;
+	padding:0px;
+	box-sizing:box-border;
+}
+body{
+	background-color:#42f5c5;
+	color:red;
+	font-family:sans-serif;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	min-height:500px;
+	}
+div{
+	
+background-color:grey;
+height:500px;
+width:500px;
+display:flex;
+justify-content:center;
+align-items:center;
+flex-direction:column;
+margin-top:200px;	
+	
+	
+	
+}
+ 
